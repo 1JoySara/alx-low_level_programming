@@ -15,7 +15,7 @@ while (*(src + 1) != '\0')
 {
 l++;
 }
-for ( ; x < l; x++)
+for (x = 0; x < l; x++)
 {
 dest[x] = src[x];
 }
