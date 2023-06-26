@@ -25,5 +25,5 @@ if (b % 2 == 0)
 _putchar(str[0]);
 }
 }
--putchar('\n');
+_putchar('\n');
 }
