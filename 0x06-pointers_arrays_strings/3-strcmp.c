@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * _strcmp - Compares two strings using putchar
  * @s1: First string
